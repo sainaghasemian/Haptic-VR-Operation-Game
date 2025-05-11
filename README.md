@@ -1,6 +1,6 @@
 # Haptic VR Operation Game
 
-From ENSF 545 Introduction to Virtual Reality Course, this Unity-based VR adaptation of "Operation" uses integrated haptic feedback. The project compares user performance and experience in two versions: one with enhanced (vibration/weight) feedback and one minimal.
+From ENSF 545 Introduction to Virtual Reality Course at the University of Calgary, this Unity-based VR adaptation of "Operation" uses integrated haptic feedback. The project compares user performance and experience in two versions: one with enhanced (vibration/weight) feedback and one minimal.
 
 ## Overview
 
